@@ -1,13 +1,13 @@
 .info {
     width: 650px;
     border-radius: 30px;
-    border: 10px solid seagreen;
-    background-color: saddlebrown;
+    border: 10px solid rgb(253, 12, 201);
+    background-color: rgb(255, 0, 0);
     padding: 5px;
     font-weight: bolder;
     color: whitesmoke
 }
 
 strong {
-    color: palegreen;
+    color: greenyellow;
 }
